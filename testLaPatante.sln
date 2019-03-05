@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{82057467-A782-4FBE-A8D7-EC95F89FFE94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testLaPatante", "testLaPatante\testLaPatante.csproj", "{B9EDBD7B-F22F-4CA9-8F92-6A6817882D2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{82057467-A782-4FBE-A8D7-EC95F89FFE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82057467-A782-4FBE-A8D7-EC95F89FFE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82057467-A782-4FBE-A8D7-EC95F89FFE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82057467-A782-4FBE-A8D7-EC95F89FFE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9EDBD7B-F22F-4CA9-8F92-6A6817882D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EDBD7B-F22F-4CA9-8F92-6A6817882D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EDBD7B-F22F-4CA9-8F92-6A6817882D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EDBD7B-F22F-4CA9-8F92-6A6817882D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {206D3683-EDA3-4924-BE24-931784A45262}
+		SolutionGuid = {5103654C-363C-42EE-86C6-660CB39CC8E6}
 	EndGlobalSection
 EndGlobal
