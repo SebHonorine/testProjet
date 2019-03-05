@@ -4,7 +4,7 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:65043",
+      "applicationUrl": "http://localhost:49152",
       "sslPort": 44324
     }
   },
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "testLaPatante": {
+    "last_test": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",
